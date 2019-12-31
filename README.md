@@ -6,6 +6,24 @@ Hello! Welcome to the PSYC 917 repository. Here you will find all of the tutoria
 
 The course teaches the basics of fMRI analysis and is aimed at first-year graduate students that may have some prior programming experience. The course uses Python because we believe that Python currently offers the best available tools out there for fMRI. However, _this is not a programming course_, and students are not expected to be proficient in Python. Pretty much all of the code is provided so that students can focus on the concepts rather than get lost in implementation (which will be saved for their own time and research projects ;)). All of the excercises done at the end of each tutorial involve copying and tweaking the provided tutorial code.
 
+## Outline
+
+| Week | Topic                                    | Lesson(s) |
+|------|------------------------------------------|-----------|
+| 1    | Introduction Lecture & course overview   | N/A       |
+| 2    | Principles of fMRI Design and Analysis   | 1 + 2     |
+| 3    | Temporal processing                      | 3         |
+| 4    | Spatial Processing                       | 4 + 5     |
+| 5    | First-level analysis                     | 6         |
+| 6    | Second-level analysis                    | 7         |
+| 7    | Reading Week                             | N/A       |
+| 8    | ROI-based analyses and seed connectivity | 8 + 9     |
+| 9    | Multivariate Pattern Analysis            | 10        |
+| 10   | Functional Connectivity                  | 11        |
+| 11   | Network Analysis                         | 12        |
+| 12   | Project Week 1                           | N/A       |
+| 13   | Project Week 2                           | N/A       |
+
 ## Set Up
 
 ### 1. Downloading the repository 
