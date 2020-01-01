@@ -30,11 +30,11 @@ The course teaches the basics of fMRI analysis and is aimed at first-year gradua
 
 First, you'll want to download the repository, which can be done by the bright green button at the top right of the page. Click on `Download Zip`. Once downloaded, extract the zip file and move the repository folder to a location of your choice. 
 
-### 2. Downloading the Data
+### 2. Getting the Data
 
-The courses uses data from [Gorgolewski et al (2013)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3641991/), which can be downloaded from OpenNeuro [here](https://openneuro.org/datasets/ds000114/versions/1.0.1). Click on `Download`, which will take you to a second page where you can download the data using your browser. 
+The courses uses data from a localizer experiment we've collected. The total dataset (raw and preprocessed versions) is ~16GB. The data is stored on a USB key and will be available to everyone.
 
-The data will be downloaded as `ds000114-1.0.1` (or something similar). Once downloaded, unzip the folder to extract the data. **Rename the folder to `data` and move this folder to inside the repository folder**. The `data` folder should exist inside the repository, alongside the rest of the files.
+Once you've got the data, place the folder in the repository alongside the notebooks.
 
 ### 3. Anaconda
 
