@@ -13,14 +13,14 @@ The course teaches the basics of fMRI analysis and is aimed at first-year gradua
 | 1    | Introduction Lecture & course overview   | N/A       |
 | 2    | Principles of fMRI Design and Analysis   | 1 + 2     |
 | 3    | Temporal processing                      | 3         |
-| 4    | Spatial Processing                       | 4 + 5     |
-| 5    | First-level analysis                     | 6         |
-| 6    | Second-level analysis                    | 7         |
+| 4    | Spatial Processing                       | 4         |
+| 5    | First-level analysis                     | 5         |
+| 6    | Second-level analysis                    | 6         |
 | 7    | Reading Week                             | N/A       |
-| 8    | ROI-based analyses and seed connectivity | 8 + 9     |
-| 9    | Multivariate Pattern Analysis            | 10        |
-| 10   | Functional Connectivity                  | 11        |
-| 11   | Network Analysis                         | 12        |
+| 8    | ROI-based analyses and seed connectivity | 7 + 8     |
+| 9    | Multivariate Pattern Analysis            | 9         |
+| 10   | Functional Connectivity                  | 10        |
+| 11   | Network Analysis                         | 11        |
 | 12   | Project Week 1                           | N/A       |
 | 13   | Project Week 2                           | N/A       |
 
