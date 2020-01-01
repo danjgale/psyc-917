@@ -32,7 +32,7 @@ First, you'll want to download the repository, which can be done by the bright g
 
 ### 2. Getting the Data
 
-The courses uses data from a localizer experiment we've collected. The total dataset (raw and preprocessed versions) is ~16GB. The data is stored on a USB key and will be available to everyone.
+The course uses data from a localizer experiment we've collected. The total dataset (raw and preprocessed versions) is ~16GB. The data is stored on a USB key and will be available to everyone.
 
 Once you've got the data, place the folder in the repository alongside the notebooks.
 
