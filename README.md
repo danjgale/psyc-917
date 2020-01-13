@@ -8,7 +8,7 @@ The course teaches the basics of fMRI analysis and is aimed at first-year gradua
 
 ## Outline
 
-| Week | Topic                                    | Lesson(s) |
+| Week | Topic                                    | Lesson    |
 |------|------------------------------------------|-----------|
 | 1    | Introduction Lecture & course overview   | N/A       |
 | 2    | Principles of fMRI Design and Analysis   | 1 + 2     |
@@ -17,12 +17,12 @@ The course teaches the basics of fMRI analysis and is aimed at first-year gradua
 | 5    | First-level analysis                     | 5         |
 | 6    | Second-level analysis                    | 6         |
 | 7    | Reading Week                             | N/A       |
-| 8    | ROI-based analyses and seed connectivity | 7 + 8     |
-| 9    | Multivariate Pattern Analysis            | 9         |
-| 10   | Functional Connectivity                  | 10        |
-| 11   | Network Analysis                         | 11        |
-| 12   | Project Week 1                           | N/A       |
-| 13   | Project Week 2                           | N/A       |
+| 8    | ROI-based analyses                       | 7         |
+| 9    | MVPA 1: Pattern Classification           | 8         |
+| 10   | MVPA 1: Representational similarity      | 9         |
+| 11   | Research Project week                    | N/A       |
+| 12   | Functional Connectivity 1                | 10        |
+| 13   | Functional Connectivity 1                | 11        |
 
 ## Set Up
 
