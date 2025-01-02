@@ -38,7 +38,7 @@ Once you've got the data, place the folder in the repository alongside the noteb
 
 ### 3. Anaconda
 
-This course assumes that you have Python 3 installed using [Anaconda](https://www.anaconda.com/). Please ensure that you install the **Python 3.7** distribution for your operating system. If you do not wish to rely on Anaconda, you can simply install the dependencies (see 2) below).
+This course assumes that you have Python 3 installed using [Anaconda](https://www.anaconda.com/). Please ensure that you install the **Python 3.11** distribution for your operating system. You can try more recent versions, but this course has been developed and tested to work with `3.11`. If you do not wish to rely on Anaconda, you can simply install the dependencies (see 2) below).
 
 All dependencies are found in `requirements.txt` and can be installed by running `pip install -r requirements.txt`. With Anaconda, many of these will already be installed. You _do not need to install the dependencies right away_, as we'll be installing them together in the first lesson. 
 
