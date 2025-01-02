@@ -19,10 +19,10 @@ The course teaches the basics of fMRI analysis and is aimed at first-year gradua
 | 7    | Reading Week                             | N/A       |
 | 8    | ROI-based analyses                       | 7         |
 | 9    | MVPA 1: Pattern Classification           | 8         |
-| 10   | MVPA 1: Representational similarity      | 9         |
+| 10   | MVPA 2: Representational similarity      | 9         |
 | 11   | Research Project week                    | N/A       |
-| 12   | Functional Connectivity 1                | 10        |
-| 13   | Functional Connectivity 1                | 11        |
+| 12   | Functional Connectivity                  | 10        |
+| 13   | Network Analysis                         | 11        |
 
 ## Set Up
 
@@ -32,9 +32,9 @@ First, you'll want to download the repository, which can be done by the bright g
 
 ### 2. Getting the Data
 
-The course uses data from a localizer experiment we've collected. The total dataset (raw and preprocessed versions) is ~16GB. The data is stored on a USB key and will be available to everyone.
+The course uses data from a localizer experiment we've collected. The total dataset (raw and preprocessed versions) is ~16GB. The data is stored on a USB key and will be available to everyone. Once you've got the data, place the folder in the repository alongside the notebooks.
 
-Once you've got the data, place the folder in the repository alongside the notebooks.
+For lessons 10 and 11, a separate example dataset is used. Prior to those lessons, the data will be distributed on a key as well.  
 
 ### 3. Anaconda
 
@@ -50,6 +50,6 @@ There are plenty of resources available online for Python, and some for both Pyt
 2. [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) and the [accompanying repository](https://github.com/jakevdp/PythonDataScienceHandbook)
 3. The Python tutorial in [A First Course in Network Science](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/tutorials/Appendix%20-%20Python%20Tutorial.ipynb)
 
-Once you've familiarized yourself with Python and fMRI in the first couple of weeks, we **highly recommend** diving into the [Nilearn documentation](https://nilearn.github.io/index.html). The documentation isn't just code documentation; it has a number of tutorials and code examples for a variety of different aspects of fMRI.
+Once you've familiarized yourself with Python and fMRI in the first couple of weeks, we **highly recommend** diving into the [Nilearn documentation](https://nilearn.github.io/stable/index.html). The documentation isn't just code documentation; it has a number of tutorials and code examples for a variety of different aspects of fMRI.
 
 
